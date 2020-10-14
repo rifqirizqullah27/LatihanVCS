@@ -137,10 +137,11 @@ $ cd latihan1``
 * Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
 * Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 * Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
-* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/
+* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/
 
 
 
-#### BY-VAL18
+#### Made in By M.Rizky Abdillah
 
-![cat_black_breed_russian_blue_eyes_green_eyes_black_background_81774_1280x720](https://user-images.githubusercontent.com/72790651/95911514-c768fa00-0dcb-11eb-80f1-359fb7203d83.jpg)
+![Rizkyyz 1](https://user-images.githubusercontent.com/66506609/95938008-2ac24e80-0e03-11eb-85d8-048da6bfea6f.jpg)
+
