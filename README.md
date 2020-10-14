@@ -100,7 +100,6 @@ $ cd latihan1``
 * Isi nama repositorynya, misal: labpy1.
 * lalu klik tombol Create repository
 
-![photo_2020-10-14_02-49-50](https://user-images.githubusercontent.com/72790651/95910427-42311580-0dca-11eb-8787-b8d9519b7682.jpg)
 
 ### Menambahkan Remote Repository
 
@@ -123,7 +122,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![photo_2020-10-14_02-49-50 (3)](https://user-images.githubusercontent.com/72790651/95911083-309c3d80-0dcb-11eb-82da-32e3ffa60e6c.jpg)
+![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
 
 
 ### Clone Repository
